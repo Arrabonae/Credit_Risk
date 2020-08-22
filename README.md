@@ -10,6 +10,6 @@ The dataset contains all available data for more than 800,000 consumer loans iss
 
 Project is based on the udemy course "Credit Risk Modelling in Python 2020".
 
-![basel III] (pics/BIII.png)
+![basel III](pics/BIII.png)
 
-![basel III_table] (pics/BIII_t.png)
+![basel III_table](pics/BIII_t.png)
