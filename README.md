@@ -7,3 +7,5 @@ The Repository demonstrates the Probability of Default (PD), Loss Given Default 
 
 ## Dataset
 The dataset contains all available data for more than 800,000 consumer loans issued from 2007 to 2014 by Lending Club: a large US peer-to-peer lending company. There are several different versions of this dataset. I have used a version available on kaggle.com.
+
+Project is based on the udemy course "Credit Risk Modelling in Python 2020".
